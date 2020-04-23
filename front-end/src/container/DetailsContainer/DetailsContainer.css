@@ -1,0 +1,16 @@
+.DetailsContainer .container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.DetailsContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px 0;
+    /* background-image: url('../../images/coffee_farmer.jpeg'); */
+}
+
+.DetailsContainer h2 {
+    font-family: Arial, Helvetica, sans-serif
+}

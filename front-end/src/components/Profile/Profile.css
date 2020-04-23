@@ -1,0 +1,113 @@
+#container-segment {
+  /* border: none; */
+  width: 500px;
+border-radius: 13px;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
+  opacity: 90%;
+  display: inline-block;
+}
+
+#circular-image {
+  border-radius: 100%;
+  width: 150px;
+  display: inline-block;
+}
+.joinDate {
+  margin: 15px;
+}
+.ui.form.profileForm {
+  margin: 20px auto;
+  width: 400px;
+}
+
+.ui.form.profileForm label{
+  font-size: 25px;
+  margin: 15px;
+}
+
+.ui.form.profileForm input {
+border-radius: 13px;
+box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
+border: solid 1px #979797;
+height: 50px;
+font-family: 'Montserrat';
+font-size: 25px;
+}
+.ui.form.profileForm input:focus {
+border-radius: 13px;
+box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
+border: solid 1px #979797;
+height: 60px;
+font-family: 'Montserrat';
+font-size: 25px;
+}
+.ui.submit.button.profile {
+  font-family: 'Raleway';
+  /* background-color: goldenrod; */
+box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
+width: 100px;
+margin: 0 auto;
+}
+
+.ui.container.segment.profilePosts {
+  display: inline-block;
+  width: 300px;
+  left: 20px;
+  vertical-align: top;
+}
+
+
+
+
+
+
+
+/* .Profile {
+    height: 100vh;
+    /* background: url("../../images/tim-mossholder-J0sMjGu6jvQ-unsplash.jpg"); */
+    /* background-size: cover; */
+  /* } */
+  
+  /* .Profile .ui.celled.grid {
+    height: 100vh;
+  }
+   */
+  /* .Profile .user-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    /* background-image: url("../../images/stamped-paper2.png"); */
+    /* background-size: cover;
+    font-family: "Special Elite", cursive;
+    border-radius: 4px;
+    box-shadow: 10px 10px rgb(0, 0, 0, 0.5);
+  } */ 
+  
+  /* .Profile .user-info h3 {
+    font-family: "Special Elite", cursive;
+  } */
+  
+  /* .Profile .Post {
+    /* background: url("../../images/nordwood-themes-KcsKWw77Ovw-unsplash.jpg"); */
+    /* box-shadow: 10px 10px rgb(0, 0, 0, 0.5);
+  }  */
+  
+  /* .Profile .profile-purchase-title {
+    font-family: "Special Elite", cursive; */
+    /* background: url("../../images/nordwood-themes-KcsKWw77Ovw-unsplash.jpg"); */
+    /* display: flex;
+    justify-content: center;
+    height: 50px;
+    align-items: center;
+    box-shadow: 5px 5px rgb(0, 0, 0, 0.5);
+    border-radius: 4px;
+  } */
+  
+  /* @media (max-width: 600px) {
+    .Profile .row {
+      display: flex;
+      flex-direction: column;
+    }
+  }  */
